@@ -79,3 +79,7 @@ To prevent RCE vulnerabilities:
 - Avoid executing system commands directly from user input
 - Implement secure coding practices
 - Regularly update software and dependencies
+
+## Lab
+
+[Lab Setup Guide](lab/lab.md)
